@@ -257,7 +257,7 @@ No cloud account or credit card needed! 🎉
 
 **Demo:** [Watch on LinkedIn](#) | [View Code](./Day1/)
 
-[📖 View Day 1 Full Details →](./Day1/challenges/Day%201%20Task.md)
+[📖 View Day 1 Full Details →](./https://github.com/varshithreddy39/murf-ai-voice-agents-challenge/tree/main/Day1)
 
 ---
 
