@@ -50,8 +50,24 @@ murf-ai-voice-agents-challenge/
 │   │   ├── .env.local             # Frontend config (not in git)
 │   │   ├── package.json           # Node dependencies
 │   │   └── README.md              # Frontend documentation
-│   └── challenges/                # Day 1 task description
-├── Day2/                          # Coming soon...
+│   └── start_app.sh               # Launch script
+├── Day2/                          # Day 2: Falcon Brew - AI Barista
+│   ├── backend/                   # Barista agent with order management
+│   │   ├── src/
+│   │   │   └── agent.py          # Barista implementation
+│   │   └── orders/                # Saved orders (JSON)
+│   ├── frontend/                  # Coffee shop UI
+│   │   ├── app/
+│   │   │   ├── receipt/          # Receipt pages
+│   │   │   └── api/              # Order APIs
+│   │   ├── components/
+│   │   │   └── app/
+│   │   │       ├── order-display.tsx      # Live order tracking
+│   │   │       ├── beverage-visualizer.tsx # Coffee animation
+│   │   │       └── receipt-view.tsx       # Receipt component
+│   │   └── hooks/                # Order state hooks
+│   ├── start_app.sh               # Launch script
+│   └── README.md                  # Day 2 documentation
 ├── Day3/                          # Coming soon...
 ├── ...                            # Days 4-10
 ├── LICENSE                        # MIT License
@@ -102,7 +118,7 @@ murf-ai-voice-agents-challenge/
 | Day | Challenge | Status | Demo |
 |-----|-----------|--------|------|
 | 1 | Get Starter Voice Agent Running | ✅ Complete | [Link](#) |
-| 2 | TBD | 🔄 In Progress | - |
+| 2 | Falcon Brew - AI Barista | ✅ Complete | [Link](#) |
 | 3 | TBD | ⏳ Upcoming | - |
 | 4 | TBD | ⏳ Upcoming | - |
 | 5 | TBD | ⏳ Upcoming | - |
@@ -261,7 +277,39 @@ No cloud account or credit card needed! 🎉
 
 ---
 
-### Day 2-10: Coming Soon... 🚀
+---
+
+### Day 2: Falcon Brew - AI Barista ✅
+
+**Challenge:** Build a coffee shop barista that takes orders through natural conversation
+
+**What I Built:**
+- ☕ Barista persona with friendly coffee shop conversation style
+- 📝 Order state management (drink, size, milk, extras, name)
+- 🛠️ Function tool for saving complete orders
+- 💾 Order persistence to JSON files
+- 🧾 Professional receipt generation and display
+- 📊 Live order tracking with progress indicators
+- 🎨 Coffee-themed UI with realistic drink colors
+- ✨ Smooth animations and visual feedback
+- 📱 Mobile-responsive design
+- 🖨️ Print-optimized receipts
+
+**Tech Highlights:**
+- Function calling / tool use in LiveKit Agents
+- Real-time state synchronization between voice and UI
+- Dynamic receipt pages with Next.js
+- Toast notifications for order confirmation
+- Coffee cup visualizer with color-coded drinks
+- Progress tracking (e.g., "4/5 items collected")
+
+**Demo:** [Watch on LinkedIn](#) | [View Code](./Day2/)
+
+[📖 View Day 2 Full Details →](./Day2/README.md)
+
+---
+
+### Day 3-10: Coming Soon... 🚀
 
 Each day will bring new challenges and capabilities:
 - Custom personas and conversation styles
