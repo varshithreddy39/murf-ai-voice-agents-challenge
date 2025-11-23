@@ -118,7 +118,7 @@ murf-ai-voice-agents-challenge/
 | Day | Challenge | Status | Demo |
 |-----|-----------|--------|------|
 | 1 | Get Starter Voice Agent Running | ✅ Complete | [Link](#) |
-| 2 | Falcon Brew - AI Barista | ✅ Complete | [Link](#) |
+| 2 | Byte & Brew Cafe - AI Barista | ✅ Complete | [Link](#) |
 | 3 | TBD | ⏳ Upcoming | - |
 | 4 | TBD | ⏳ Upcoming | - |
 | 5 | TBD | ⏳ Upcoming | - |
