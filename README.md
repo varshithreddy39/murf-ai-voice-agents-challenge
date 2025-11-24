@@ -118,8 +118,8 @@ murf-ai-voice-agents-challenge/
 | Day | Challenge | Status | Demo |
 |-----|-----------|--------|------|
 | 1 | Get Starter Voice Agent Running | ✅ Complete | [Link](#) |
-| 2 | Byte & Brew Cafe - AI Barista | ✅ Complete | [Link](#) |
-| 3 | TBD | ⏳ Upcoming | - |
+| 2 | Falcon Brew - AI Barista | ✅ Complete | [Link](#) |
+| 3 | Health & Wellness Companion + Notion | ✅ Complete | [Link](#) |
 | 4 | TBD | ⏳ Upcoming | - |
 | 5 | TBD | ⏳ Upcoming | - |
 | 6 | TBD | ⏳ Upcoming | - |
@@ -309,7 +309,39 @@ No cloud account or credit card needed! 🎉
 
 ---
 
-### Day 3-10: Coming Soon... 🚀
+### Day 3: Health & Wellness Companion + Notion Integration ✅
+
+**Challenge:** Build a supportive wellness companion that tracks mood, energy, and integrates with Notion
+
+**What I Built:**
+- 🌱 Wellness companion persona with empathetic conversation style
+- 💭 Mood and energy level tracking across sessions
+- 📊 Session persistence with streak calculation
+- 🎯 Daily intentions capture and tracking
+- 📝 **Notion API integration** for task management
+- ✅ Voice commands to create, view, and complete tasks
+- 💬 Enhanced chat UI with modern bubbles and keyword highlighting
+- 🎨 Professional design with wellness theme
+- 📈 Real-time stats updates (session count, streak)
+- 🔄 Context-aware conversations referencing past check-ins
+
+**Tech Highlights:**
+- Direct Notion API integration with httpx
+- Function tools for task management (add, fetch, complete)
+- JSON-based session persistence with atomic writes
+- Enhanced chat bubbles with gradient backgrounds
+- Keyword highlighting for Notion operations
+- Real-time stats polling every 3 seconds
+- Case-insensitive status matching
+- Word-to-number parsing for energy levels
+
+**Demo:** [Watch on LinkedIn](#) | [View Code](./Day3/)
+
+[📖 View Day 3 Full Details →](./Day3/README.md)
+
+---
+
+### Day 4-10: Coming Soon... 🚀
 
 Each day will bring new challenges and capabilities:
 - Custom personas and conversation styles
