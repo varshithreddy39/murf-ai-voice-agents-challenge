@@ -1,0 +1,101 @@
+{
+  "sessions": [
+    {
+      "session_id": "session_20251124_094906",
+      "timestamp": "2025-11-24T09:50:41.711413",
+      "mood": "Negative, due to bad food",
+      "energy_level": "6/10 (moderate, leaning slightly low)",
+      "stress_factors": [
+        "Bad food"
+      ],
+      "intentions": [
+        "Walk 10,000 steps",
+        "Go to the gym"
+      ],
+      "agent_summary": "User's mood is low due to bad food, energy is moderate (6/10). Intentions are to walk 10k steps and go to the gym.",
+      "previous_session_reference": null
+    },
+    {
+      "session_id": "session_20251124_095110",
+      "timestamp": "2025-11-24T09:53:45.560430",
+      "mood": "Tense",
+      "energy_level": "8/10",
+      "stress_factors": [
+        "Two exams today",
+        "Feeling unprepared"
+      ],
+      "intentions": [
+        "Prepare for exams"
+      ],
+      "agent_summary": "The user is feeling tense and anxious due to two upcoming exams today for which they feel unprepared, despite having good energy levels (8/10). Their intention is to spend the morning preparing for these exams.",
+      "previous_session_reference": "Previous: Negative, due to bad food mood, 6/10 (moderate, leaning slightly low) energy"
+    },
+    {
+      "session_id": "session_20251124_130905",
+      "timestamp": "2025-11-24T13:10:53.749665",
+      "mood": "Neutral",
+      "energy_level": "9/10",
+      "stress_factors": [],
+      "intentions": [
+        "Work on a project",
+        "Go to the gym at 6 PM"
+      ],
+      "agent_summary": "The user reported a neutral mood and high energy (9/10). Their intentions for the day include working on a project and going to the gym at 6 PM. No stress factors were mentioned.",
+      "previous_session_reference": "Previous: Tense mood, 8/10 energy"
+    },
+    {
+      "session_id": "session_20251124_134351",
+      "timestamp": "2025-11-24T13:45:36.466499",
+      "mood": "headache",
+      "energy_level": "8/10",
+      "stress_factors": [
+        "headache",
+        "upcoming exam"
+      ],
+      "intentions": [
+        "Go to the gym at 6 PM",
+        "Study for the exam at 8 PM"
+      ],
+      "agent_summary": "The user is experiencing a headache but has an energy level of 8/10. Their intentions for today are to go to the gym at 6 PM and study for an exam at 8 PM.",
+      "previous_session_reference": "Previous: Neutral mood, 9/10 energy"
+    },
+    {
+      "session_id": "session_20251124_144452",
+      "timestamp": "2025-11-24T14:46:58.640730",
+      "mood": "better",
+      "energy_level": "8/10",
+      "stress_factors": [],
+      "intentions": [
+        "study at eight PM today"
+      ],
+      "agent_summary": "The user reported feeling better today with an energy level of 8/10. They have one intention: to study at 8 PM. This intention was added to Notion.",
+      "previous_session_reference": "Previous: headache mood, 8/10 energy"
+    },
+    {
+      "session_id": "session_20251124_150729",
+      "timestamp": "2025-11-24T15:12:16.440109",
+      "mood": "pretty cool",
+      "energy_level": "9/10",
+      "stress_factors": [],
+      "intentions": [
+        "go to the movie at six PM today"
+      ],
+      "agent_summary": "The user reported feeling 'pretty cool' with an energy level of 9/10. They intended to 'go to the movie at six PM today', which was added to Notion. A previous task 'study at eight PM today' was marked as complete.",
+      "previous_session_reference": "Previous: better mood, 8/10 energy"
+    },
+    {
+      "session_id": "session_20251124_173816",
+      "timestamp": "2025-11-24T17:40:42.019428",
+      "mood": "very tensed",
+      "energy_level": "eight",
+      "stress_factors": [
+        "exam tomorrow"
+      ],
+      "intentions": [
+        "study at 8 PM today"
+      ],
+      "agent_summary": "The user is feeling very tense today with an energy level of eight. Their main intention is to study at 8 PM for an exam tomorrow. The intention has been added to Notion.",
+      "previous_session_reference": "Previous: pretty cool mood, 9/10 energy"
+    }
+  ]
+}
