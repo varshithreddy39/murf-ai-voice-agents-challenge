@@ -1,4 +1,4 @@
-# Day 2: Falcon Brew - AI Barista Voice Agent ☕
+# Day 2: Byte & Brew Cafe - AI Barista Voice Agent ☕
 
 > **Challenge:** Build a coffee shop barista voice agent that takes orders naturally through conversation
 
