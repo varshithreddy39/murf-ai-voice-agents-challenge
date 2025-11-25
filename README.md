@@ -120,7 +120,7 @@ murf-ai-voice-agents-challenge/
 | 1 | Get Starter Voice Agent Running | ✅ Complete | [Link](#) |
 | 2 | Falcon Brew - AI Barista | ✅ Complete | [Link](#) |
 | 3 | Health & Wellness Companion + Notion | ✅ Complete | [Link](#) |
-| 4 | TBD | ⏳ Upcoming | - |
+| 4 | Teach-the-Tutor - Active Recall Coach | ✅ Complete | [Link](#) |
 | 5 | TBD | ⏳ Upcoming | - |
 | 6 | TBD | ⏳ Upcoming | - |
 | 7 | TBD | ⏳ Upcoming | - |
@@ -341,7 +341,40 @@ No cloud account or credit card needed! 🎉
 
 ---
 
-### Day 4-10: Coming Soon... 🚀
+### Day 4: Teach-the-Tutor - Active Recall Coach ✅
+
+**Challenge:** Build an AI tutor that teaches programming through active recall - learning by teaching back!
+
+**What I Built:**
+- 🎓 Multi-mode learning system (Learn, Quiz, Teach Back)
+- 🎙️ **Dynamic voice switching** - 3 different voices for 3 modes
+  - Matthew (Learn Mode) - Clear explanations
+  - Alicia (Quiz Mode) - Engaging questions
+  - Ken (Teach Back Mode) - Active listening
+- 📚 5 programming concepts (Variables, Loops, Functions, Conditionals, Arrays)
+- 🛠️ Function tools for topic selection and mode switching
+- 📝 Teaching evaluation with scoring system
+- 🎨 Dynamic UI status bar that changes color per mode
+- ✨ Professional animated welcome screen
+- 🔄 Real-time mode detection and updates
+- 📖 Auto-generated content.json with concept summaries
+
+**Tech Highlights:**
+- Dynamic TTS voice updates during conversation
+- State management across conversation turns
+- Function tools: `select_topic()`, `set_learning_mode()`, `evaluate_teaching()`
+- AssemblyAI for accurate speech recognition
+- Active recall teaching methodology
+- Real-time UI updates based on conversation context
+- Framer Motion animations for smooth transitions
+
+**Demo:** [Watch on LinkedIn](#) | [View Code](./Day4/)
+
+[📖 View Day 4 Full Details →](./Day4/README.md)
+
+---
+
+### Day 5-10: Coming Soon... 🚀
 
 Each day will bring new challenges and capabilities:
 - Custom personas and conversation styles
