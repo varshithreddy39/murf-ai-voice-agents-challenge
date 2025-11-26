@@ -1,0 +1,25 @@
+{
+  "leads": [
+    {
+      "name": "Varshit",
+      "email": "varshit@meta.com",
+      "company": "Meta",
+      "team_size": "1000-2000",
+      "current_crm": "Salesforce",
+      "pain_points": "struggling with lead tracking and our sales team needs better automation and reporting",
+      "timestamp": "2025-11-26T17:38:41.381418",
+      "room_id": "unknown"
+    },
+    {
+      "name": "Varshit",
+      "email": "varshit@meta.com",
+      "company": "Meta",
+      "team_size": "thousand to two thousand people",
+      "current_crm": "Salesforce",
+      "pain_points": "struggling with lead tracking and our sales team needs better automation and reporting",
+      "timestamp": "2025-11-26T18:03:35.240354",
+      "room_id": "unknown"
+    }
+  ],
+  "lastUpdated": "2025-11-26T18:03:35.240354"
+}

@@ -121,7 +121,7 @@ murf-ai-voice-agents-challenge/
 | 2 | Falcon Brew - AI Barista | ✅ Complete | [Link](#) |
 | 3 | Health & Wellness Companion + Notion | ✅ Complete | [Link](#) |
 | 4 | Teach-the-Tutor - Active Recall Coach | ✅ Complete | [Link](#) |
-| 5 | TBD | ⏳ Upcoming | - |
+| 5 | Zoho CRM SDR - Enterprise Sales Assistant | ✅ Complete | [Link](#) |
 | 6 | TBD | ⏳ Upcoming | - |
 | 7 | TBD | ⏳ Upcoming | - |
 | 8 | TBD | ⏳ Upcoming | - |
@@ -374,7 +374,39 @@ No cloud account or credit card needed! 🎉
 
 ---
 
-### Day 5-10: Coming Soon... 🚀
+### Day 5: Zoho CRM SDR - Enterprise Sales Assistant ✅
+
+**Challenge:** Build a professional SDR (Sales Development Representative) that qualifies leads through natural conversation
+
+**What I Built:**
+- 🎯 **Proactive SDR Personality** - Guides conversations instead of just responding to questions
+- 📊 **Lead Qualification System** - Systematically captures name, company, team size, pain points, and email
+- 💰 **Smart Pricing Calculator** - Calculates costs based on team size (e.g., 200 users × ₹1,400 = ₹2,80,000/month)
+- 💾 **Automatic Lead Saving** - Saves qualified leads to JSON database with comprehensive error handling
+- 🎤 **Energetic Voice** - Murf Terrell voice with Promo style for enthusiastic sales conversations
+- 🎨 **Enterprise-Grade UI** - Professional dark theme with glassmorphism and premium animations
+- 💬 **Speech Bubbles** - WhatsApp-style chat interface with authentic bubble tails
+- ✨ **Advanced Animations** - Floating particles, pulsing status indicators, spring physics transitions
+- 🔄 **Real-time Status Bar** - Live connection indicator with "Zoho CRM Assistant - LIVE" badge
+- 📝 **Product Knowledge Base** - Loaded with Zoho CRM features, pricing tiers, and FAQs
+
+**Tech Highlights:**
+- Function calling for structured lead data capture
+- AssemblyAI for accurate speech recognition (switched from Deepgram)
+- Comprehensive error handling with emoji-based logging (🔥 📝 ✅ ❌)
+- Glassmorphic UI components with backdrop blur effects
+- Framer Motion for spring physics and GPU-accelerated animations
+- Particle background with seeded random for SSR/hydration compatibility
+- Speech bubble tails using CSS borders for authentic chat appearance
+- Lead data persistence with atomic writes and verification
+
+**Demo:** [Watch on LinkedIn](#) | [View Code](./Day5/)
+
+[📖 View Day 5 Full Details →](./Day5/README.md)
+
+---
+
+### Day 6-10: Coming Soon... 🚀
 
 Each day will bring new challenges and capabilities:
 - Custom personas and conversation styles

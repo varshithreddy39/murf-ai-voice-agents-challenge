@@ -1,0 +1,48 @@
+{
+  "company_name": "Zoho CRM",
+  "about": "Zoho CRM is a cloud-based customer relationship management platform that helps businesses manage sales, marketing, and customer support in a single system.",
+  "pricing": {
+    "free_plan": "Free for up to 3 users.",
+    "standard": "₹800/user/month billed annually.",
+    "professional": "₹1,400/user/month billed annually.",
+    "enterprise": "₹2,400/user/month billed annually.",
+    "ultimate": "₹2,600/user/month billed annually."
+  },
+  "features": [
+    "Lead management",
+    "Contact management",
+    "Sales automation",
+    "Workflow automation",
+    "AI assistant (Zia)",
+    "Omnichannel communication",
+    "Reporting & analytics",
+    "Custom dashboards",
+    "Marketing automation"
+  ],
+  "faqs": [
+    {
+      "q": "What is Zoho CRM?",
+      "a": "Zoho CRM is a cloud-based platform for managing sales, marketing, and customer relationships."
+    },
+    {
+      "q": "Who uses Zoho CRM?",
+      "a": "Zoho CRM is used by startups, SMBs, and enterprises to manage leads and automate sales."
+    },
+    {
+      "q": "Do you offer a free trial?",
+      "a": "Yes, Zoho CRM offers a 15-day free trial and a free plan for up to 3 users."
+    },
+    {
+      "q": "Does Zoho CRM support automation?",
+      "a": "Yes, Zoho CRM includes workflow automation and email automation."
+    },
+    {
+      "q": "What are your integrations?",
+      "a": "Zoho CRM integrates with Gmail, Microsoft 365, WhatsApp, Slack and more."
+    },
+    {
+      "q": "Do you have an AI assistant?",
+      "a": "Yes, Zoho CRM includes Zia, an AI assistant for predictions and insights."
+    }
+  ]
+}
