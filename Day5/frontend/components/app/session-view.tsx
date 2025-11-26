@@ -91,7 +91,7 @@ export const SessionView = ({
   }, [messages]);
 
   return (
-    <section className="relative z-10 h-full w-full overflow-hidden bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900" {...props}>
+    <section className="relative z-10 h-full w-full overflow-hidden bg-gradient-to-br from-indigo-950 via-purple-900 to-pink-950" {...props}>
       {/* Animated Background */}
       <div className="absolute inset-0 overflow-hidden">
         <motion.div
@@ -101,7 +101,7 @@ export const SessionView = ({
             x: [0, 50, 0],
           }}
           transition={{ duration: 15, repeat: Infinity, ease: "easeInOut" }}
-          className="absolute top-0 right-0 w-96 h-96 bg-blue-500/20 rounded-full blur-3xl"
+          className="absolute top-0 right-0 w-96 h-96 bg-teal-500/20 rounded-full blur-3xl"
         />
         <motion.div
           animate={{
@@ -110,16 +110,16 @@ export const SessionView = ({
             x: [0, -50, 0],
           }}
           transition={{ duration: 20, repeat: Infinity, ease: "easeInOut" }}
-          className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-purple-500/20 rounded-full blur-3xl"
+          className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-orange-500/20 rounded-full blur-3xl"
         />
         <motion.div
           animate={{
             opacity: [0.05, 0.1, 0.05],
           }}
           transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
-          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-cyan-500/20 rounded-full blur-3xl"
+          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-fuchsia-500/20 rounded-full blur-3xl"
         />
-        <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.02)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[size:50px_50px]" />
+        <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(255,255,255,0.02)_25%,transparent_25%,transparent_50%,rgba(255,255,255,0.02)_50%,rgba(255,255,255,0.02)_75%,transparent_75%,transparent)] bg-[size:60px_60px]" />
       </div>
 
       {/* Status Indicator - Top Center */}
@@ -129,7 +129,7 @@ export const SessionView = ({
         transition={{ delay: 0.5, duration: 0.5 }}
         className="fixed top-6 left-1/2 -translate-x-1/2 z-[60]"
       >
-        <div className="bg-gradient-to-r from-slate-900/95 to-blue-900/95 backdrop-blur-xl border border-white/10 rounded-full px-8 py-3.5 shadow-2xl flex items-center gap-3">
+        <div className="bg-gradient-to-r from-teal-900/95 to-cyan-900/95 backdrop-blur-xl border border-teal-400/20 rounded-full px-8 py-3.5 shadow-2xl flex items-center gap-3">
           <motion.div
             animate={{
               scale: [1, 1.3, 1],
@@ -138,19 +138,19 @@ export const SessionView = ({
             transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
             className="relative"
           >
-            <div className="w-2.5 h-2.5 bg-emerald-400 rounded-full" />
+            <div className="w-2.5 h-2.5 bg-teal-400 rounded-full" />
             <motion.div
               animate={{
                 scale: [1, 2, 1],
                 opacity: [0.5, 0, 0.5],
               }}
               transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
-              className="absolute inset-0 bg-emerald-400 rounded-full"
+              className="absolute inset-0 bg-teal-400 rounded-full"
             />
           </motion.div>
           <span className="text-white/90 font-medium text-sm tracking-wide">Zoho CRM Assistant</span>
           <div className="w-px h-4 bg-white/20" />
-          <span className="text-emerald-400 font-semibold text-xs uppercase tracking-wider">Live</span>
+          <span className="text-teal-400 font-semibold text-xs uppercase tracking-wider">Live</span>
         </div>
       </motion.div>
 
@@ -188,10 +188,10 @@ export const SessionView = ({
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.5 }}
-            className="bg-gradient-to-br from-slate-900/90 to-slate-800/90 backdrop-blur-2xl border border-white/10 rounded-3xl shadow-2xl p-5 relative overflow-hidden"
+            className="bg-gradient-to-br from-indigo-900/90 to-purple-900/90 backdrop-blur-2xl border border-teal-400/20 rounded-3xl shadow-2xl p-5 relative overflow-hidden"
           >
             {/* Subtle gradient overlay */}
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-500/5 to-purple-500/5 pointer-events-none" />
+            <div className="absolute inset-0 bg-gradient-to-r from-teal-500/5 to-orange-500/5 pointer-events-none" />
             <div className="relative z-10">
               <AgentControlBar controls={controls} onChatOpenChange={setChatOpen} />
             </div>

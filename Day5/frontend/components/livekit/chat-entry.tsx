@@ -52,8 +52,8 @@ export const ChatEntry = ({
         className={cn(
           'relative max-w-[75%] px-5 py-3.5 shadow-xl backdrop-blur-md transition-all duration-300 group-hover:scale-[1.01] group-hover:shadow-2xl',
           messageOrigin === 'local' 
-            ? 'ml-auto bg-gradient-to-br from-blue-600 via-blue-600 to-blue-700 text-white border border-blue-400/40 rounded-[20px] rounded-tr-sm group-hover:border-blue-300/60' 
-            : 'mr-auto bg-gradient-to-br from-white/15 to-white/5 text-white border border-white/30 rounded-[20px] rounded-tl-sm group-hover:border-white/40'
+            ? 'ml-auto bg-gradient-to-br from-teal-600 via-cyan-600 to-teal-700 text-white border border-teal-400/40 rounded-[20px] rounded-tr-sm group-hover:border-teal-300/60' 
+            : 'mr-auto bg-gradient-to-br from-orange-500/20 to-fuchsia-500/10 text-white border border-orange-400/30 rounded-[20px] rounded-tl-sm group-hover:border-orange-400/50'
         )}
       >
         {/* Speech bubble tail */}
@@ -61,8 +61,8 @@ export const ChatEntry = ({
           className={cn(
             'absolute top-0 w-0 h-0 transition-all duration-300',
             messageOrigin === 'local'
-              ? 'right-0 translate-x-0 border-l-[12px] border-l-blue-600 border-t-[12px] border-t-transparent'
-              : 'left-0 translate-x-0 border-r-[12px] border-r-white/15 border-t-[12px] border-t-transparent'
+              ? 'right-0 translate-x-0 border-l-[12px] border-l-teal-600 border-t-[12px] border-t-transparent'
+              : 'left-0 translate-x-0 border-r-[12px] border-r-orange-500/20 border-t-[12px] border-t-transparent'
           )}
         />
         <p className="text-[15px] leading-relaxed relative z-10">{message}</p>
@@ -72,7 +72,7 @@ export const ChatEntry = ({
           'absolute inset-0 rounded-[20px] opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none',
           messageOrigin === 'local' 
             ? 'bg-gradient-to-tr from-transparent via-white/10 to-transparent rounded-tr-sm'
-            : 'bg-gradient-to-tr from-transparent via-white/8 to-transparent rounded-tl-sm'
+            : 'bg-gradient-to-tr from-transparent via-orange-300/10 to-transparent rounded-tl-sm'
         )} />
       </div>
     </li>
