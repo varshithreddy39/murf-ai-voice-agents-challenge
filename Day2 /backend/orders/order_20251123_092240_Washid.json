@@ -1,0 +1,12 @@
+{
+  "drinkType": "cappuccino",
+  "size": "small",
+  "milk": "coconut milk",
+  "extras": [
+    "whipped cream",
+    "whipped cream"
+  ],
+  "name": "Washid",
+  "timestamp": "2025-11-23T09:22:40.139811",
+  "status": "completed"
+}

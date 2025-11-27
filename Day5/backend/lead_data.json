@@ -19,7 +19,27 @@
       "pain_points": "struggling with lead tracking and our sales team needs better automation and reporting",
       "timestamp": "2025-11-26T18:03:35.240354",
       "room_id": "unknown"
+    },
+    {
+      "name": "Zoro",
+      "email": "zero@kira.com",
+      "company": "Kira",
+      "team_size": "30",
+      "current_crm": "None",
+      "pain_points": "working with customer relationships",
+      "timestamp": "2025-11-26T18:48:34.902159",
+      "room_id": "unknown"
+    },
+    {
+      "name": "Zoro",
+      "email": "zero@kira.com",
+      "company": "Kira",
+      "team_size": "20",
+      "current_crm": "none",
+      "pain_points": "relationships with customers",
+      "timestamp": "2025-11-26T18:55:24.502602",
+      "room_id": "unknown"
     }
   ],
-  "lastUpdated": "2025-11-26T18:03:35.240354"
+  "lastUpdated": "2025-11-26T18:55:24.502602"
 }

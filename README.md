@@ -122,7 +122,7 @@ murf-ai-voice-agents-challenge/
 | 3 | Health & Wellness Companion + Notion | ✅ Complete | [Link](#) |
 | 4 | Teach-the-Tutor - Active Recall Coach | ✅ Complete | [Link](#) |
 | 5 | Zoho CRM SDR - Enterprise Sales Assistant | ✅ Complete | [Link](#) |
-| 6 | TBD | ⏳ Upcoming | - |
+| 6 | SecureBank Fraud Alert Agent | ✅ Complete | [Link](#) |
 | 7 | TBD | ⏳ Upcoming | - |
 | 8 | TBD | ⏳ Upcoming | - |
 | 9 | TBD | ⏳ Upcoming | - |
@@ -406,7 +406,47 @@ No cloud account or credit card needed! 🎉
 
 ---
 
-### Day 6-10: Coming Soon... 🚀
+### Day 6: SecureBank Fraud Alert Agent ✅
+
+**Challenge:** Build a fraud detection voice agent that verifies suspicious transactions
+
+**What I Built:**
+- 🏦 **Professional Bank Fraud Agent** - Calm, reassuring fraud prevention representative
+- 🗄️ **SQLite Fraud Database** - 6 pre-loaded suspicious transaction cases
+- 🔐 **Identity Verification** - Security questions loaded from database
+- 💳 **Transaction Review** - Clear reading of suspicious charges with details
+- ✅ **Case Resolution** - Mark transactions as safe or fraudulent
+- 🚫 **Automatic Card Blocking** - Immediate action on confirmed fraud
+- 💾 **JSON Export** - Automatically saves resolved cases to JSON files
+- 🎨 **Minimal Professional UI** - Clean white card design like real banking alerts
+- 📊 **Database Dashboard** - View all cases with color-coded status
+- 🔄 **Reset Utility** - Easy case reset for testing
+
+**Tech Highlights:**
+- SQLite database with fraud case management
+- Function tools: `load_fraud_case()`, `verify_customer()`, `mark_transaction_safe()`, `mark_transaction_fraudulent()`
+- Dynamic security questions from database
+- JSON file export for each resolved case
+- AssemblyAI for accurate speech recognition
+- Murf Natalie voice (professional, trustworthy tone)
+- Clean minimal UI with fraud alert theme
+- Comprehensive testing utilities
+
+**Sample Cases:**
+- Raju - $25,000 wire transfer to Dubai
+- Sarah Williams - $8,750 luxury watch from Russia
+- Michael Chen - $15,000 crypto exchange from Nigeria
+- John Smith - $2,499 e-commerce from China
+- Emily Rodriguez - $3,299 electronics from China
+- David Thompson - $599 gaming service
+
+**Demo:** [Watch on LinkedIn](#) | [View Code](./Day6/)
+
+[📖 View Day 6 Full Details →](./Day6/README.md)
+
+---
+
+### Day 7-10: Coming Soon... 🚀
 
 Each day will bring new challenges and capabilities:
 - Custom personas and conversation styles

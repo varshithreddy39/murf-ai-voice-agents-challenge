@@ -1,0 +1,11 @@
+{
+  "drinkType": "Espresso",
+  "size": "medium",
+  "milk": "Whole milk",
+  "extras": [
+    "Whipped cream"
+  ],
+  "name": "Rashid",
+  "timestamp": "2025-11-23T09:53:09.852128",
+  "status": "completed"
+}

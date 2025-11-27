@@ -1,0 +1,11 @@
+{
+  "drinkType": "cappuccino",
+  "size": "small",
+  "milk": "whole",
+  "extras": [
+    "whipped cream"
+  ],
+  "name": "Nim",
+  "timestamp": "2025-11-23T16:54:08.847162",
+  "status": "completed"
+}

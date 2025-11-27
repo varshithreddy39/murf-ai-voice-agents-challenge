@@ -1,0 +1,11 @@
+{
+  "drinkType": "cappuccino",
+  "size": "small",
+  "milk": "whole",
+  "extras": [
+    "extra shot"
+  ],
+  "name": "Puneet",
+  "timestamp": "2025-11-23T15:25:29.631922",
+  "status": "completed"
+}

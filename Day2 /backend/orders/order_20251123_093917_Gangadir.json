@@ -1,0 +1,11 @@
+{
+  "drinkType": "Cappuccino",
+  "size": "large",
+  "milk": "almond milk",
+  "extras": [
+    "extra shot"
+  ],
+  "name": "Gangadir",
+  "timestamp": "2025-11-23T09:39:17.675437",
+  "status": "completed"
+}

@@ -1,0 +1,11 @@
+{
+  "drinkType": "cappuccino",
+  "size": "small",
+  "milk": "whole milk",
+  "extras": [
+    "whipped cream"
+  ],
+  "name": "Balakrishna",
+  "timestamp": "2025-11-23T10:08:58.382769",
+  "status": "completed"
+}

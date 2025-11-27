@@ -1,0 +1,46 @@
+═══════════════════════════════════════════════════════════
+🎬 DAY 6 FRAUD ALERT - QUICK DEMO SCRIPT
+═══════════════════════════════════════════════════════════
+
+📋 CONVERSATION:
+
+1. Click "Connect to Fraud Department"
+
+2. Agent: "May I have your name?"
+   YOU: "Raju"
+
+3. Agent: "What city are you from?"
+   YOU: "Nellore"
+
+4. Agent: "Did you authorize this $25,000 transaction?"
+   YOU: "No"
+
+5. Agent: "I've blocked your card..."
+   YOU: "No, thank you"
+
+═══════════════════════════════════════════════════════════
+
+📊 SHOW IN VIDEO:
+
+BEFORE:
+  uv run python view_cases.py
+  (All pending)
+
+AFTER:
+  uv run python view_cases.py
+  (Raju = Fraud 🚨)
+  
+  cat resolved_cases/case_6_Raju_*.json
+  (Show JSON file)
+
+═══════════════════════════════════════════════════════════
+
+✅ OTHER CUSTOMERS:
+
+Raju → Nellore → $25,000 (Wire Transfer) ⭐
+Sarah Williams → Boston → $8,750
+John Smith → Johnson → $2,499
+Michael Chen → Blue → $15,000
+Emily Rodriguez → Max → $3,299
+
+═══════════════════════════════════════════════════════════
