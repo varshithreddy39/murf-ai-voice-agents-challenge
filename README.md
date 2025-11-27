@@ -31,7 +31,7 @@ Welcome to my journey through the **Murf AI Voice Agents Challenge**! Over 10 da
 - 🔇 **Noise cancellation** for crystal-clear conversations
 - 🎯 **Smart turn detection** that understands conversation context
 - 📊 **Real-time audio visualization** and level monitoring
-- 📹 **Video & screen sharing** support built-in
+- 📹 **Video & screen sharing** support built-in.
 
 ## 📁 Repository Structure
 
