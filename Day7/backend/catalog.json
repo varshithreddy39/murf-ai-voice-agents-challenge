@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bread_whole_wheat",
+    "name": "Whole Wheat Bread",
+    "category": "groceries",
+    "price": 45.0,
+    "brand": "FreshBake",
+    "unit": "1 loaf",
+    "tags": ["bread", "sandwich", "vegetarian"]
+  },
+  {
+    "id": "milk_full_cream",
+    "name": "Full Cream Milk",
+    "category": "groceries",
+    "price": 65.0,
+    "brand": "Amul",
+    "unit": "1 liter",
+    "tags": ["dairy", "breakfast", "vegetarian"]
+  },
+  {
+    "id": "eggs_brown",
+    "name": "Brown Eggs",
+    "category": "groceries",
+    "price": 90.0,
+    "brand": "FarmFresh",
+    "unit": "12 pieces",
+    "tags": ["protein", "breakfast"]
+  },
+  {
+    "id": "butter_salted",
+    "name": "Salted Butter",
+    "category": "groceries",
+    "price": 55.0,
+    "brand": "Amul",
+    "unit": "100g",
+    "tags": ["dairy", "cooking", "vegetarian"]
+  },
+  {
+    "id": "rice_basmati",
+    "name": "Basmati Rice",
+    "category": "groceries",
+    "price": 180.0,
+    "brand": "India Gate",
+    "unit": "1 kg",
+    "tags": ["grain", "staple", "vegan", "gluten-free"]
+  },
+  {
+    "id": "cooking_oil",
+    "name": "Sunflower Cooking Oil",
+    "category": "groceries",
+    "price": 220.0,
+    "brand": "Fortune",
+    "unit": "1 liter",
+    "tags": ["cooking", "vegan"]
+  },
+  {
+    "id": "onion",
+    "name": "Fresh Onions",
+    "category": "groceries",
+    "price": 40.0,
+    "brand": "Local Farm",
+    "unit": "1 kg",
+    "tags": ["vegetable", "cooking", "vegan"]
+  },
+  {
+    "id": "tomato",
+    "name": "Fresh Tomatoes",
+    "category": "groceries",
+    "price": 50.0,
+    "brand": "Local Farm",
+    "unit": "1 kg",
+    "tags": ["vegetable", "cooking", "vegan"]
+  },
+  {
+    "id": "chips_classic",
+    "name": "Classic Salted Chips",
+    "category": "snacks",
+    "price": 20.0,
+    "brand": "Lays",
+    "unit": "50g pack",
+    "tags": ["snack", "vegetarian"]
+  },
+  {
+    "id": "biscuits_marie",
+    "name": "Marie Gold Biscuits",
+    "category": "snacks",
+    "price": 25.0,
+    "brand": "Britannia",
+    "unit": "250g pack",
+    "tags": ["snack", "tea-time", "vegetarian"]
+  },
+  {
+    "id": "chocolate_dairy_milk",
+    "name": "Dairy Milk Chocolate",
+    "category": "snacks",
+    "price": 35.0,
+    "brand": "Cadbury",
+    "unit": "55g bar",
+    "tags": ["snack", "sweet", "vegetarian"]
+  },
+  {
+    "id": "nuts_cashew",
+    "name": "Roasted Cashews",
+    "category": "snacks",
+    "price": 180.0,
+    "brand": "Nutty Gritty",
+    "unit": "200g pack",
+    "tags": ["snack", "healthy", "vegan", "gluten-free"]
+  },
+  {
+    "id": "instant_noodles",
+    "name": "Maggi Masala Noodles",
+    "category": "prepared_food",
+    "price": 14.0,
+    "brand": "Maggi",
+    "unit": "70g pack",
+    "tags": ["quick-meal", "vegetarian"]
+  },
+  {
+    "id": "pasta_pack",
+    "name": "Penne Pasta",
+    "category": "prepared_food",
+    "price": 85.0,
+    "brand": "Del Monte",
+    "unit": "500g pack",
+    "tags": ["pasta", "italian", "vegan"]
+  },
+  {
+    "id": "pasta_sauce_jar",
+    "name": "Tomato Basil Pasta Sauce",
+    "category": "prepared_food",
+    "price": 120.0,
+    "brand": "Kissan",
+    "unit": "400g jar",
+    "tags": ["pasta", "sauce", "vegetarian"]
+  },
+  {
+    "id": "cheese_block",
+    "name": "Cheddar Cheese Block",
+    "category": "groceries",
+    "price": 150.0,
+    "brand": "Amul",
+    "unit": "200g",
+    "tags": ["dairy", "cheese", "vegetarian"]
+  },
+  {
+    "id": "peanut_butter_jar",
+    "name": "Creamy Peanut Butter",
+    "category": "groceries",
+    "price": 180.0,
+    "brand": "Sundrop",
+    "unit": "400g jar",
+    "tags": ["spread", "protein", "vegan"]
+  },
+  {
+    "id": "pizza_frozen",
+    "name": "Frozen Margherita Pizza",
+    "category": "prepared_food",
+    "price": 250.0,
+    "brand": "McCain",
+    "unit": "400g",
+    "tags": ["pizza", "quick-meal", "vegetarian"]
+  },
+  {
+    "id": "sandwich_ready",
+    "name": "Veg Grilled Sandwich",
+    "category": "prepared_food",
+    "price": 80.0,
+    "brand": "FreshBite",
+    "unit": "1 piece",
+    "tags": ["sandwich", "ready-to-eat", "vegetarian"]
+  },
+  {
+    "id": "coffee_instant",
+    "name": "Instant Coffee",
+    "category": "beverages",
+    "price": 120.0,
+    "brand": "Nescafe",
+    "unit": "100g jar",
+    "tags": ["beverage", "coffee", "vegan"]
+  }
+]

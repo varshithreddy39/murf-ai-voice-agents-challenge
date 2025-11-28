@@ -1,0 +1,13 @@
+{
+  "peanut butter sandwich": ["bread_whole_wheat", "peanut_butter_jar"],
+  "simple sandwich": ["bread_whole_wheat", "butter_salted"],
+  "pasta for two": ["pasta_pack", "pasta_sauce_jar", "cheese_block"],
+  "simple pasta": ["pasta_pack", "pasta_sauce_jar"],
+  "maggi": ["instant_noodles", "butter_salted", "onion"],
+  "simple maggi": ["instant_noodles"],
+  "breakfast combo": ["bread_whole_wheat", "eggs_brown", "butter_salted", "milk_full_cream"],
+  "tea time snacks": ["biscuits_marie", "chips_classic"],
+  "quick dinner": ["pizza_frozen"],
+  "healthy snack": ["nuts_cashew"],
+  "basic cooking": ["rice_basmati", "cooking_oil", "onion", "tomato"]
+}

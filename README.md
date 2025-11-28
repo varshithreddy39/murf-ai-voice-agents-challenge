@@ -123,7 +123,7 @@ murf-ai-voice-agents-challenge/
 | 4 | Teach-the-Tutor - Active Recall Coach | ✅ Complete | [Link](#) |
 | 5 | Zoho CRM SDR - Enterprise Sales Assistant | ✅ Complete | [Link](#) |
 | 6 | SecureBank Fraud Alert Agent | ✅ Complete | [Link](#) |
-| 7 | TBD | ⏳ Upcoming | - |
+| 7 | QuickBasket - Food & Grocery Voice Ordering | ✅ Complete | [Link](#) |
 | 8 | TBD | ⏳ Upcoming | - |
 | 9 | TBD | ⏳ Upcoming | - |
 | 10 | TBD | ⏳ Upcoming | - |
@@ -446,7 +446,45 @@ No cloud account or credit card needed! 🎉
 
 ---
 
-### Day 7-10: Coming Soon... 🚀
+### Day 7: QuickBasket - Food & Grocery Voice Ordering Assistant ✅
+
+**Challenge:** Build a voice-powered food and grocery ordering system with cart management and recipe lookup
+
+**What I Built:**
+- 🛒 **Voice Cart Management** - Add, remove, update items through natural conversation
+- 📖 **Recipe Intelligence** - Say "ingredients for pasta" and get all items added automatically
+- 💾 **Order Persistence** - Orders saved to JSON with customer details
+- 📦 **Product Catalog** - 20 diverse items across groceries, snacks, prepared food, beverages
+- 🎨 **Real-Time UI Overlays** - Cart widget, drawer, receipt modal, all updating live
+- 🎯 **Smart Matching** - Natural language item recognition
+- 📋 **Cart Review** - Ask "what's in my cart?" anytime
+
+**Tech Highlights:**
+- Function tools for cart operations (add, remove, update, list, clear)
+- Recipe-to-ingredients mapping system
+- Real-time cart tracking from conversation messages
+- Slide-in cart drawer with Framer Motion animations
+- Order receipt modal with JSON download
+- Professional gradient UI with green grocery theme
+- AssemblyAI for accurate speech recognition
+- Murf Falcon for ultra-fast voice synthesis
+
+**UI Components:**
+- Welcome page with category chips and "How It Works" guide
+- Floating cart status widget (bottom-right)
+- Slide-in cart drawer from right side
+- Order receipt modal with success animation
+- "View Last Order" button (bottom-left)
+- QuickBasket branding (top-left)
+- All overlays work seamlessly with LiveKit controls
+
+**Demo:** [Watch on LinkedIn](#) | [View Code](./Day7/)
+
+[📖 View Day 7 Full Details →](./Day7/README.md)
+
+---
+
+### Day 8-10: Coming Soon... 🚀
 
 Each day will bring new challenges and capabilities:
 - Custom personas and conversation styles
