@@ -1,6 +1,6 @@
 # 🎙️ Murf AI Voice Agents Challenge
 
-> Building **10 AI Voice Agents in 10 Days** using Murf Falcon TTS - the consistently fastest text-to-speech API in the world.
+> Building **10 AI Voice Agents in 7 Days** using Murf Falcon TTS - the consistently fastest text-to-speech API in the world.
 
 [![Challenge](https://img.shields.io/badge/Challenge-10%20Days%20of%20AI%20Voice%20Agents-blue?style=for-the-badge)](https://murf.ai)
 [![TTS](https://img.shields.io/badge/TTS-Murf%20Falcon-FF6B35?style=for-the-badge&logo=audio)](https://murf.ai/api)
@@ -124,9 +124,7 @@ murf-ai-voice-agents-challenge/
 | 5 | Zoho CRM SDR - Enterprise Sales Assistant | ✅ Complete | [Link](#) |
 | 6 | SecureBank Fraud Alert Agent | ✅ Complete | [Link](#) |
 | 7 | QuickBasket - Food & Grocery Voice Ordering | ✅ Complete | [Link](#) |
-| 8 | TBD | ⏳ Upcoming | - |
-| 9 | TBD | ⏳ Upcoming | - |
-| 10 | TBD | ⏳ Upcoming | - |
+
 
 ## 🏃 Quick Start Guide
 
